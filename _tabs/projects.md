@@ -1,7 +1,7 @@
 ---
 layout: page
 icon: fas fa-flask
-order: 3
+order: 2
 ---
 
 # Research Projects

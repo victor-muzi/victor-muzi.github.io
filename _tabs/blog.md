@@ -1,7 +1,7 @@
 ---
 layout: page
 icon: fas fa-pen
-order: 6
+order: 3
 permalink: /blog/
 title: Blog
 ---
