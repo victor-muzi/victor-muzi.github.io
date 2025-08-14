@@ -1,6 +1,6 @@
 ---
 layout: page
-icon: fas fa-flask
+icon: fas fa-file-lines
 order: 2
 ---
 
