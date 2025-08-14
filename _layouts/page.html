@@ -1,10 +1,14 @@
 ---
 layout: default
+panel_includes:
+  - toc
 ---
 
 {% include lang.html %}
 
-<article class="px-1">
+{% include toc-status.html %}
+
+<article class="px-1" data-toc="{{ enable_toc }}">
   {% if page.layout == 'page' or page.collection == 'tabs' %}
     {% assign tab_key = page.title | downcase %}
     {% assign title = site.data.locales[lang].tabs[tab_key] | default: page.title %}
