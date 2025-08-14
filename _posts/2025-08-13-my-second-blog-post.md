@@ -1,6 +1,6 @@
 ---
 title: My SECOND Blog Post
-date: 2025-08-15 10:00:00 +1000
+date: 2025-08-13 10:00:00 +1000
 categories: [Psychology, Research, MORE]
 tags: [introduction, testing, testingMORE]
 description: A test TESTpost to explore Chirpy theme features and functionality.
