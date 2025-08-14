@@ -191,7 +191,13 @@ defaults:
       type: tabs # see `site.collections`
     values:
       layout: page
+      toc: true # Enable TOC on all tab pages
       permalink: /:title/
+  - scope:
+      path: ""
+      type: pages
+    values:
+      toc: true # Enable TOC on all pages
 
 sass:
   style: compressed
