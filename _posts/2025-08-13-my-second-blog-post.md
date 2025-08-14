@@ -4,6 +4,7 @@ date: 2025-08-13 10:00:00 +1000
 categories: [Psychology, Research, MORE]
 tags: [introduction, testing, testingMORE]
 description: A test TESTpost to explore Chirpy theme features and functionality.
+image: /assets/img/profilepic.jpg
 ---
 
 # Welcome to My Blog
