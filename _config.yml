@@ -170,7 +170,7 @@ collections:
   tabs:
     output: true
     sort_by: order
-  projects:        # ← This was added
+  projects:
     output: true
     sort_by: order
 
@@ -201,7 +201,7 @@ defaults:
       type: pages
     values:
       toc: true # Enable TOC on all pages
-    - scope:
+  - scope:
       path: ""
       type: projects
     values:
