@@ -170,6 +170,9 @@ collections:
   tabs:
     output: true
     sort_by: order
+  projects:        # ← This was added
+    output: true
+    sort_by: order
 
 defaults:
   - scope:
@@ -198,6 +201,13 @@ defaults:
       type: pages
     values:
       toc: true # Enable TOC on all pages
+    - scope:
+      path: ""
+      type: projects
+    values:
+      layout: project
+      toc: true # Enable TOC on all project pages
+      permalink: /projects/:title/
 
 sass:
   style: compressed
