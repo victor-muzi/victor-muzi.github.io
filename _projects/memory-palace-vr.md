@@ -4,7 +4,7 @@ title: "Memory Palace VR Training"
 description: "Immersive VR application for learning and practicing the method of loci memory technique."
 
 image:
-  path: "/assets/img/profilepic.jpg"
+  path: "/assets/img/vrpallace.jpeg"
   alt: "Mobile app interface showing attention training exercises"
 
 order: 3
