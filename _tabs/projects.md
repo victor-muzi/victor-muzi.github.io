@@ -25,7 +25,7 @@ order: 1
           <p class="project-subtitle">{{ project.subtitle }}</p>
         {% endif %}
         {% if project.description %}
-          <p class="project-description">{{ project.description | truncate: 201 }}</p>
+          <p class="project-description">{{ project.description | truncate: 200 }}</p>
         {% endif %}
         {% if project.tech_stack and project.tech_stack.size > 0 %}
           <div class="project-tech">
