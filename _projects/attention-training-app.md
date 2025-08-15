@@ -4,7 +4,7 @@ title: "Cognitive Attention Training Platform"
 description: "A research-backed mobile application designed to improve cognitive attention and focus through scientifically-validated training exercises."
 
 image:
-  path: "/assets/img/profilepic.jpg"
+  path: "/assets/img/cognitivetraining.jpg"
   alt: "Mobile app interface showing attention training exercises"
 order: 1
 ---
