@@ -231,7 +231,7 @@
   }
 }
 
-/* Project page image styling */
+/* Project page image styling all changes edits here and below */
 .project-content img,
 article img {
   max-width: 100% !important;
@@ -241,7 +241,7 @@ article img {
   margin: 2rem auto !important;
   display: block !important;
   border-radius: 0.5rem;
-  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 4px 6px rgb(0 0 0 / 10%);
 }
 
 /* Disable Chirpy's shimmer effect */
@@ -264,13 +264,13 @@ article img[data-lqip] {
   left: 0;
   width: 100%;
   height: 100%;
-  background: rgba(0, 0, 0, 0.9);
+  background: rgb(0 0 0 / 90%);
   display: flex;
   align-items: center;
   justify-content: center;
   z-index: 9999;
   cursor: zoom-out;
-  animation: fadeIn 0.3s ease;
+  animation: fade-in 0.3s ease;
 
   img {
     max-width: 90% !important;
@@ -279,14 +279,14 @@ article img[data-lqip] {
     height: auto !important;
     object-fit: contain !important;
     margin: auto !important;
-    box-shadow: 0 0 30px rgba(0, 0, 0, 0.5);
+    box-shadow: 0 0 30px rgb(0 0 0 / 50%);
   }
 
   .close-lightbox {
     position: absolute;
     top: 20px;
     right: 40px;
-    color: #fff;
+    color: #ffffff;
     font-size: 40px;
     font-weight: bold;
     cursor: pointer;
@@ -298,7 +298,7 @@ article img[data-lqip] {
   }
 }
 
-@keyframes fadeIn {
+@keyframes fade-in {
   from { opacity: 0; }
   to { opacity: 1; }
 }
