@@ -26,17 +26,24 @@
 
   .project-image {
     width: 100%;
-    height: 250px;
-    overflow: hidden;
+    height: 250px !important; // Added !important
+    overflow: hidden !important; // Added !important
     background: var(--card-header-bg);
+    position: relative;              // Added this line
+    display: block;                  // Added this line
 
     img {
-      width: 100%;
-      height: 100%;
-      object-fit: cover;
+      position: absolute !important;  // Added this line
+      top: 0 !important;             // Added this line
+      left: 0 !important;            // Added this line
+      width: 100% !important;         // Added !important
+      height: 100% !important;        // Added !important
+      object-fit: cover !important;   // Added !important
+      object-position: center center !important;  // Added this line
+      max-width: none !important;     // Added this line
+      max-height: none !important;    // Added this line
       transition: transform 0.3s ease;
     }
-
     .project-placeholder {
       width: 100%;
       height: 100%;
