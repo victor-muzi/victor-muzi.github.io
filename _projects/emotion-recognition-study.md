@@ -14,6 +14,9 @@ order: 6
 
 How do cultural backgrounds influence both the expression and recognition of facial emotions across different populations?
 
+![y pic](/assets/img/profilepic.jpg)
+_cpation here_
+
 ## Methodology
 
 - **Facial landmark detection** using OpenCV for feature extraction
