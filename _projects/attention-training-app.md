@@ -13,6 +13,10 @@ order: 1
 
 This mobile application combines psychology research with game design principles to create an engaging platform for cognitive enhancement.
 
+```yaml
+key: value
+```
+
 ## Key Features
 
 - **Scientifically-validated exercises** based on cognitive psychology research
