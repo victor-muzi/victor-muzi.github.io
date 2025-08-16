@@ -257,6 +257,7 @@ article img[data-lqip] {
   filter: none !important;
 }
 
+
 /* Lightbox styling */
 .image-lightbox {
   position: fixed;
@@ -298,7 +299,10 @@ article img[data-lqip] {
   }
 }
 
+
 @keyframes fade-in {
+  
   from { opacity: 0; }
+  
   to { opacity: 1; }
 }
