@@ -21,6 +21,10 @@ This post serves several purposes:
 - Exploring the Chirpy theme features
 - Demonstrating my writing style
 
+```yaml
+key: value
+```
+
 ## My Background
 
 As a psychology graduate with first-class honours, I'm passionate about psychological research and evidence-based practice.
