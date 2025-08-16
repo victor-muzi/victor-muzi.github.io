@@ -3,6 +3,7 @@ import {
   loadImg,
   imgPopup,
   initClipboard,
+  initToc,
   loadMermaid
 } from './modules/components';
 
@@ -11,5 +12,6 @@ imgPopup();
 initSidebar();
 initTopbar();
 initClipboard();
+initToc();
 loadMermaid();
 basic();
