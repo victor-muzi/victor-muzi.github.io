@@ -1,7 +1,4 @@
-<!-- markdownlint-disable-next-line -->
-<div align="center">
-
- # Victor Muzi's Research Portfolio
+# Victor Muzi's Research Portfolio
 
 A professional portfolio website showcasing psychological research, data science projects, and technical work at the intersection of cognitive science and technology.
 
