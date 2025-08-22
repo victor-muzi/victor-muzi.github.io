@@ -10,5 +10,6 @@ I'm a psychological researcher who combines advanced statistical expertise with 
 This project exemplifies my approach: taking messy, real-world data, including archival datasets with inconsistent formatting, and uncovering meaningful insights about how executive function and environmental complexity shape behaviour. Currently at Sophia Cortex, I'm applying these same skills to develop AI-assisted therapeutic tools that make evidence-based interventions more accessible. Even my personal projects reflect this curiosity, from investigating personality estimation biases to exploring personality assessment reliability.
 
 ## Get In Touch
-I'm currently seeking research positions that apply statistical methods and experimental design to questions in human behaviour and cognition.
-📧 victorhugomuzi@gmail.com | 💼 [LinkedIn] | 📄 [Download CV] | 🔬 [ORCID]
+I'm currently seeking data analysis and research positions that apply statistical methods and experimental design to questions in human behaviour and cognition.
+
+📧 [victorhugomuzi@gmail.com](mailto:victorhugomuzi@gmail.com) | 💼 [LinkedIn](https://www.linkedin.com/in/victor-muzi/)
