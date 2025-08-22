@@ -12,4 +12,4 @@ This project exemplifies my approach: taking messy, real-world data, including a
 ## Get In Touch
 I'm currently seeking data analysis and research positions that apply statistical methods and experimental design to questions in human behaviour and cognition.
 
-📧 [victorhugomuzi@gmail.com](mailto:victorhugomuzi@gmail.com) | 💼 [LinkedIn](https://www.linkedin.com/in/victor-muzi/){:target="_blank"}
+📧 <a href="mailto:victorhugomuzi@gmail.com">victorhugomuzi@gmail.com</a> | 💼 <a href="https://www.linkedin.com/in/victor-muzi/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
