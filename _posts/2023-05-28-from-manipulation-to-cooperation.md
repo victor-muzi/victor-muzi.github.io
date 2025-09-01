@@ -1,5 +1,5 @@
 ---
-title: From Manipulation to Cooperation: Redirecting High-Machs' Behaviour with Strategic Information
+title: "From Manipulation to Cooperation: Redirecting High-Machs' Behaviour with Strategic Information"
 date: 2023-04-28 10:00:00 +1000
 categories: [psychology, research, personality, social-behavior]
 description: A research proposal exploring how strategic information about game theory can redirect manipulative individuals (high-Machiavellians) toward cooperative behavior, offering an alternative to traditional therapeutic interventions that often fail with this population.
